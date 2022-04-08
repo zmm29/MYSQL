@@ -1,1 +1,0 @@
-insert INTO conta VALUES(NULL ,"Salário", 1200.50, "12345678"); 
